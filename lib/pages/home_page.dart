@@ -353,14 +353,6 @@ class _HomePageState extends State<HomePage> {
           ),
 
           SizedBox(height: 20),
-          // Test commit du 18 juillet
-// Test commit du 18 juillet
-// Test commit du 18 juillet
-// Test commit du 18 juillet
-// Test commit du 18 juillet
-// Test commit du 18 juillet
-
-
           // Publicités
           Text(
             "Publicité",
