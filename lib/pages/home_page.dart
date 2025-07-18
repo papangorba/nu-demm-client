@@ -342,7 +342,7 @@ class _HomePageState extends State<HomePage> {
                       SizedBox(height: 8),
                       Text("Service ${index + 1}",
                           style: TextStyle(fontWeight: FontWeight.bold, color: AppColors.primary)),
-                      Text("Date: 12/07",
+                      Text("Date: 12/08",
                           style: TextStyle( color: AppColors.secondary)
                       ),
                     ],
